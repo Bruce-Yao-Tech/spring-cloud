@@ -8,15 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-server" />
         <module name="eureka-client (1)" />
+        <module name="eureka-client (2)" />
         <module name="eureka-server" />
         <module name="service-feign" />
         <module name="service-ribbon" />
-      </profile>
-      <profile name="Annotation profile for spring-cloud" enabled="true">
-        <sourceOutputDir name="../eureka-client/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../eureka-client/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="eureka-client (2)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
