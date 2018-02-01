@@ -94,6 +94,7 @@ local.properties
 *.ipr
 *.iws
 .idea/
+.mvn/
 
 ## .gitignore for linux
 .*
