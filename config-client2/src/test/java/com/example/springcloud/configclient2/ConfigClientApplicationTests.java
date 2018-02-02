@@ -1,4 +1,4 @@
-package com.example.springcloud.configclient;
+package com.example.springcloud.configclient2;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

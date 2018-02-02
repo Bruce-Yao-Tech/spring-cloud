@@ -18,6 +18,8 @@
         <module>eureka-server</module>
         <module>eureka-client</module>
         <module>eureka-client2</module>
+        <module>config-client</module>
+        <module>config-client2</module>
     </modules>
 
     <parent>
